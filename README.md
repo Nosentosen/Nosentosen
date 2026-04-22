@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # Info:
-Pronouns: He/Him
+Pronouns: Company
 <!--
 **Nosentosen/Nosentosen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
