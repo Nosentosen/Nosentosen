@@ -2,6 +2,7 @@
 
 # Info:
 Pronouns: Company
+
 Learning: C using the brocode full free course on yt
 <!--
 **Nosentosen/Nosentosen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
